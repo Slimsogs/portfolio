@@ -39,6 +39,7 @@ const About = () => {
           If I need to define myself in one sentence, that would be a sports
           fanatic, tech-obsessed and a drummer!!!
         </p>
+        <a href="/CV/Nwachukwu-Sogidechi.pdf" className='flat-button' download > Download CV</a>
       </div>
       <div className="stage-cube-cont">
         <div className="cubespinner">

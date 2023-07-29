@@ -27,7 +27,7 @@ const About = () => {
           />
         </h1>
         <p>
-          I'm an aspiring Full-stack developer and a very ambitious front-end developer looking for a role in an
+          I'm a very ambitious Full-stack developer  looking for a role in an
           established IT company with the opportunity to work with the lastest
           technologies on challenging and diverse projects.
         </p>
@@ -39,7 +39,6 @@ const About = () => {
           If I need to define myself in one sentence, that would be a sports
           fanatic, tech-obsessed and a drummer!!!
         </p>
-        <a href="/CV/MyResume.pdf" className='flat-button' download > Download CV</a>
       </div>
       <div className="stage-cube-cont">
         <div className="cubespinner">

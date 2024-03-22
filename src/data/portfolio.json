@@ -1,6 +1,12 @@
 {
    "portfolio": [
     {
+        "cover": "/portfolio/5/taja.png",
+        "title": "Taja",
+        "description": "React, Tailwind, TSX, TS",
+        "url": "https://www.buytaja.com"
+    },
+    {
         "cover": "/portfolio/4/rps.png",
         "title": "RPS Game",
         "description": "React, CSS3, JSX",
@@ -17,12 +23,6 @@
         "title": "Ip-tracker",
         "description": "React, CSS3, JSX, leaflet, JS",
         "url": "https://leafy-croquembouche-b179a2.netlify.app"
-    },
-    {
-        "cover": "/portfolio/1/advice.png",
-        "title": "Advice Gen",
-        "description": "React, CSS3, JSX, JS",
-        "url": "hhttps://advice-gen-theta.vercel.app/"
     }
    ]
 }

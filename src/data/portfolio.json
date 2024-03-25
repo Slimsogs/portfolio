@@ -19,10 +19,10 @@
         "url": "https://crowdfund-ashen.vercel.app/"
     },
     {
-        "cover": "/portfolio/3/ip-tracker.png",
-        "title": "Ip-tracker",
-        "description": "React, CSS3, JSX, leaflet, JS",
-        "url": "https://leafy-croquembouche-b179a2.netlify.app"
+        "cover": "/portfolio/3/acc.png",
+        "title": "City Church District",
+        "description": "React, CSS3, JSX, JS",
+        "url": "https://acc-app-ten.vercel.app/"
     }
    ]
 }

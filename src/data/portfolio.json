@@ -1,28 +1,29 @@
 {
    "portfolio": [
     {
-        "cover": "/portfolio/5/taja.png",
-        "title": "Taja",
+        "cover": "/portfolio/5/tajaLogo.svg",
+        "title": "Taja website",
         "description": "React, Tailwind, TSX, TS",
-        "url": "https://www.buytaja.com"
+        "url": "https://www.tajahq.com"
     },
     {
-        "cover": "/portfolio/4/rps.png",
-        "title": "RPS Game",
-        "description": "React, CSS3, JSX",
-        "url": "https://rps-game-gilt.vercel.app/"
+        "cover": "/portfolio/4/taja.webp",
+        "title": "Taja App",
+        "description": "React Native, CSS3, JSX, typescript, next",
+        "url": "https://apps.apple.com/ng/app/taja/id6499518986"
+    },
+    {
+        "cover": "/portfolio/3/Swt.webp",
+        "title": "ShopWithTaja",
+        "description": "React Native, CSS3, JSX, typescript, next",
+        "url": "https://play.google.com/store/apps/details?id=com.itajainnovations.taja"
     },
     {
         "cover": "/portfolio/2/crowdfund.png",
         "title": "CrowdFund",
         "description": "React, CSS3, JSX",
         "url": "https://crowdfund-ashen.vercel.app/"
-    },
-    {
-        "cover": "/portfolio/3/acc.png",
-        "title": "City Church District",
-        "description": "React, CSS3, JSX, JS",
-        "url": "https://acc-app-ten.vercel.app/"
     }
+   
    ]
 }

@@ -9,13 +9,13 @@
     {
         "cover": "/portfolio/4/taja.webp",
         "title": "Taja App",
-        "description": "React Native, CSS3, JSX, typescript, next",
+        "description": "React Native, CSS3, JSX, Typescript, NextJs",
         "url": "https://apps.apple.com/ng/app/taja/id6499518986"
     },
     {
         "cover": "/portfolio/3/Swt.webp",
         "title": "ShopWithTaja",
-        "description": "React Native, CSS3, JSX, typescript, next",
+        "description": "React Native, CSS3, JSX, Typescript, NextJs",
         "url": "https://play.google.com/store/apps/details?id=com.itajainnovations.taja"
     },
     {
